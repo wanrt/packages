@@ -25,3 +25,6 @@
 [submodule "wanparty-localserver-stretch"]
 	path = wanparty-localserver-stretch
 	url = https://github.com/wanrt/wanparty-localserver-stretch.git
+[submodule "wanparty-dhcp-server"]
+	path = wanparty-dhcp-server
+	url = https://github.com/wanrt/wanparty-dhcp-server.git
