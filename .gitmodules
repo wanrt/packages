@@ -1,0 +1,27 @@
+[submodule "wanparty-base"]
+	path = wanparty-base
+	url = https://github.com/wanrt/wanparty-base.git
+[submodule "wanparty-ldap"]
+	path = wanparty-ldap
+	url = https://github.com/wanrt/wanparty-ldap.git
+[submodule "wanparty-network-config"]
+	path = wanparty-network-config
+	url = https://github.com/wanrt/wanparty-network-config.git
+[submodule "wanparty-firewall"]
+	path = wanparty-firewall
+	url = https://github.com/wanrt/wanparty-firewall.git
+[submodule "wanparty-dns-server"]
+	path = wanparty-dns-server
+	url = https://github.com/wanrt/wanparty-dns-server.git
+[submodule "wanparty-portal"]
+	path = wanparty-portal
+	url = https://github.com/wanrt/wanparty-portal.git
+[submodule "wanparty-vpn-client"]
+	path = wanparty-vpn-client
+	url = https://github.com/wanrt/wanparty-vpn-client.git
+[submodule "wanparty-localserver"]
+	path = wanparty-localserver
+	url = https://github.com/wanrt/wanparty-localserver.git
+[submodule "wanparty-localserver-stretch"]
+	path = wanparty-localserver-stretch
+	url = https://github.com/wanrt/wanparty-localserver-stretch.git
