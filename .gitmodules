@@ -28,3 +28,6 @@
 [submodule "wanparty-dhcp-server"]
 	path = wanparty-dhcp-server
 	url = https://github.com/wanrt/wanparty-dhcp-server.git
+[submodule "wanparty-supervision"]
+	path = wanparty-supervision
+	url = https://github.com/wanrt/wanparty-supervision.git
